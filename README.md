@@ -1,19 +1,19 @@
 ![Masterhead](https://github.com/thechiranjeevvyas/thechiranjeevvyas/blob/main/coder%20banner.gif)
 <h1 align="center">Hey 👋, I'm Chiranjeev Vyas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Growing Day by day in every way!</h3>
 <img align="right" alt="Coding" width ="400" src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechiranjeevvyas&label=Profile%20views&color=0e75b6&style=flat" alt="thechiranjeevvyas" /> </p>
 
-🚀 Frontend Web Developer | 🛡️ Cybersecurity Specialist | 🐍 Pythonista | 💻 C++ Enthusiast | 🎨 Figma Designer | 🚀 Flutter Lover
+🚀 Frontend Web Developer | 🛡️ Penetration Tester | 🐍 Pythonista | 💻 Cybersecurity Enthusiast | 🎨 Figma Designer | 🚀 Flutter Lover
 
-🌟 Crafting pixel-perfect web experiences and fortifying them with cybersecurity wizardry. Python and C++ are my trusty sidekicks in the world of code. I design and prototype in Figma, and I'm on a mission to make the world flutter with Flutter!
+🌟"Frontend developer by day, pentester and cybersecurity enthusiast by night. Bridging design and defense, one line of code at a time."
 
 🔥 Open to collaborations and always eager to learn and share. Let's code the future together! 🚀
 
 📫 How to reach me **chiranjeevvyas47@gmail.com**
 
-⚡ Fun fact **I've debugged code in my sleep... literally. 🌙💻😴**
+⚡ Fun fact **I don't always test my code, but when I do, I do it in production 🌙💻**
 
 
 <h3 align="left">Connect with me:</h3>

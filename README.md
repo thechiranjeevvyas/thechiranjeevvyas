@@ -17,11 +17,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thechiranjeevvyas&label=Profile%20views&color=0e75b6&style=flat" alt="thechiranjeevvyas" /> </p>
 
 <h5 align="center">
-  <i>⚡️Debugging is like solving a mystery where you're the detective, the victim, and the murderer... all at once.⚡️</i>
+  <i>⚡️Breaking things (ethically) and designing 🎨 the future—one pixel at a time!⚡️</i>
 </h5>
 
 # 💫 About Me:
-Portfolio: [My Portfolio](https://thechiranjeevvyas.github.io/resume/)
+Portfolio: [My Portfolio](https://chiranjeev--portfolio.vercel.app/)
 
 🚀 Frontend Web Developer | 🛡️ Penetration Tester | 🐍 Pythonista | 💻 Cybersecurity Enthusiast | 🎨 Figma Designer | 🚀 Flutter Lover
 

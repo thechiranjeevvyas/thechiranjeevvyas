@@ -1,6 +1,11 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Chiranjeev+Vyas;Nice+to+meet+you+!%E2%9C%A8" alt="Typing SVG" /></a>
-</h1>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=5000&color=9C0707FF&size=20&center=true&vCenter=true&width=750&lines=Red+Teamer,+Hunting+Vulnerabilities+And+Exploiting+Weaknesses;Offensive+Security+Specialist,+Turning+Exploits+Into+Insights;Ethical+Hacker+Driven+To+Test+And+Break+Systems;" 
+    alt="Red Teamer, Offensive Security Specialist"
+  />
+</a>
+</div>
 <p align='center'>
   <a href="https://www.linkedin.com/in/chiranjeev-vyas/">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">

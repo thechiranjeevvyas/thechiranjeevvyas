@@ -1,5 +1,4 @@
-# 💫 About Me:
-**Breaking things (ethically)** 😁 and designing 🎨 the future— one pixel at a time!<br> A **next-gen creative mind** 🧠, fueled by **tech**, **hacking**, and **problem-solving**. Challenges?<br>Bring them on. **Innovation?** <br>Already on it.
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fthechiranjeevvyas0aabd.png?alt=media)
 
 <!--typing banner-->
 <a href="https://git.io/typing-svg">

@@ -1,5 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fthechiranjeevvyas0aabd.png?alt=media)
-
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fthechiranjeevvyasfd126.png?alt=media)
 <!--typing banner-->
 <a href="https://git.io/typing-svg">
   <img 

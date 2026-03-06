@@ -1,5 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fthechiranjeevvyasfd126.png?alt=media)
-<!--typing banner-->
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fthechiranjeevvyasc511c.png?alt=media)<!--typing banner-->
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&duration=5000&color=9C0707FF&size=20&center=true&vCenter=true&width=750&lines=Red+Teamer,+Hunting+Vulnerabilities+And+Exploiting+Weaknesses;Offensive+Security+Specialist,+Turning+Exploits+Into+Insights;Ethical+Hacker+Driven+To+Test+And+Break+Systems;" 
